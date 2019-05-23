@@ -1,0 +1,22 @@
+.comment-container {
+  width: 640px;
+  padding: 10px;
+}
+.likes {
+  padding-bottom: 10px;
+}
+i {
+  padding-right: 10px;
+  margin-bottom: 5px;
+}
+.fa-comment {
+  transform: scaleX(-1);
+}
+.comment-input {
+  margin-top: 10px;
+  padding: 10px 0px;
+  border: none;
+  width: 100%;
+  border-top: 1px solid rgb(243, 243, 243);
+  font-size: 16px;
+}
